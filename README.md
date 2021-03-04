@@ -1,6 +1,7 @@
 # URL Shortner
 
-### A fully efficient URL shortner that shortens/shrinks a given URL(Link) to much shorter URL for user convenience. It also keeps a track of number of clicks clicked by a user on every Short url.
+A fully efficient URL shortner that shortens/shrinks a given URL(Link) to much shorter URL for user convenience.
+It also keeps a track of number of clicks clicked by a user on every Short url.
 
 ## Technologies -
 
